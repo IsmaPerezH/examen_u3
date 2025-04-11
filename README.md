@@ -47,7 +47,9 @@ Puedes ver la página funcionando aquí 👉 [Ver proyecto desplegado](https://i
 
 
 ## OBJETOS 
-La captura de la investigacion esta en la carpeta investigacion.
+La captura de la investigacion esta en la carpeta "objetos".
+
+
 
 ## 🧠 Reflexión del ejercicio
 
@@ -65,6 +67,6 @@ Si tuviera más tiempo, mejoraría el diseño visual agregando más estilos pers
 
 
 ## ✍️ Autor
-Ismael Hernández Pérez
+#### Ismael Hernández Pérez
 Estudiante de la ingenieria en Tecnologías de la Información y Comunicación
 
