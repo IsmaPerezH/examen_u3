@@ -46,7 +46,9 @@ La página tiene varias secciones:
    ```bash
    https://ismaperezh.github.io/examen_u3/
 
-   ## 🧠 Reflexión del ejercicio
+
+
+## 🧠 Reflexión del ejercicio
 
 ### ✅ ¿Qué ventaja te dio usar Bootstrap?
 
