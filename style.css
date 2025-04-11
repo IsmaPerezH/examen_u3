@@ -1,0 +1,14 @@
+.hero {
+  background: url('https://source.unsplash.com/1600x900/?wildlife') center/cover;
+  height: 400px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
