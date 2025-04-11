@@ -46,6 +46,9 @@ La página tiene varias secciones:
 Puedes ver la página funcionando aquí 👉 [Ver proyecto desplegado](https://ismaperezh.github.io/examen_u3/)
 
 
+## OBJETOS 
+La captura de la investigacion esta en la carpeta investigacion.
+
 ## 🧠 Reflexión del ejercicio
 
 ### ✅ ¿Qué ventaja te dio usar Bootstrap?
@@ -60,4 +63,8 @@ Aprendí cómo capturar datos desde formularios HTML usando `document.getElement
 
 Si tuviera más tiempo, mejoraría el diseño visual agregando más estilos personalizados, integraría más contenido multimedia, validaría mejor los formularios y organizaría el código JavaScript en un archivo externo para mantener todo más limpio y modular. También me gustaría añadir animaciones y efectos visuales para que la experiencia sea más interactiva.
 
+
+## ✍️ Autor
+Ismael Hernández Pérez
+Estudiante de la ingenieria en Tecnologías de la Información y Comunicación
 
