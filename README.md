@@ -36,7 +36,9 @@ La página tiene varias secciones:
 
 ## 🖼️ Vista previa
 
-![Vista previa](image.png) 
+![Vista previa](capturas/01.png) 
+![Vista previa](capturas/02.png) 
+![Vista previa](capturas/03.png) 
 
 ## 🚀 ¿Cómo ejecutar?
 
