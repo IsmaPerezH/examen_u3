@@ -42,6 +42,22 @@ La página tiene varias secciones:
 
 ## 🚀 ¿Cómo ejecutar?
 
-1. Clona el repositorio:
+1. entra a este enlace para poder visualizar el resultado:
    ```bash
-   git clone https://github.com/tuusuario/animales-salvajes.git
+   https://ismaperezh.github.io/examen_u3/
+
+   ## 🧠 Reflexión del ejercicio
+
+### ✅ ¿Qué ventaja te dio usar Bootstrap?
+
+Usar Bootstrap me permitió diseñar una página web responsiva y visualmente atractiva de forma rápida y sencilla. Pude aprovechar sus componentes ya listos, como tarjetas, botones y la barra de navegación, sin tener que escribir mucho CSS desde cero. También me ayudó a organizar el contenido en filas y columnas fácilmente.
+
+### 🧩 ¿Qué aprendiste sobre los objetos en JS durante este ejercicio?
+
+Aprendí cómo capturar datos desde formularios HTML usando `document.getElementById`, y cómo manipular esos datos con JavaScript. También entendí mejor cómo funcionan las funciones y cómo mostrar mensajes dinámicos en la página, lo que me ayudó a interactuar con el usuario de forma directa.
+
+### 🚀 ¿Qué mejorarías si tuvieras más tiempo?
+
+Si tuviera más tiempo, mejoraría el diseño visual agregando más estilos personalizados, integraría más contenido multimedia, validaría mejor los formularios y organizaría el código JavaScript en un archivo externo para mantener todo más limpio y modular. También me gustaría añadir animaciones y efectos visuales para que la experiencia sea más interactiva.
+
+
