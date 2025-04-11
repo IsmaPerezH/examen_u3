@@ -40,12 +40,10 @@ La página tiene varias secciones:
 ![Vista previa](capturas/02.png) 
 ![Vista previa](capturas/03.png) 
 
-## 🚀 ¿Cómo ejecutar?
 
-1. entra a este enlace para poder visualizar el resultado:
-   ```bash
-   https://ismaperezh.github.io/examen_u3/
+## 🌐 Página en línea
 
+Puedes ver la página funcionando aquí 👉 [Ver proyecto desplegado](https://ismaperezh.github.io/examen_u3/)
 
 
 ## 🧠 Reflexión del ejercicio
